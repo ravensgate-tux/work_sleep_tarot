@@ -48,7 +48,7 @@
 
 ---
 
-## 🖼️ タロット例（小サイズ）
+## 🖼️ タロット例（世界：Deviant Moon Tarot）
 
 <img src="world_tarot_small.jpg" width="300">
 
