@@ -30,9 +30,9 @@
    > and welcome me into its endless dance.  
    >  
    > Watch over me, Hekate, as I sleep.  
-   > Guide my soul along paths of peace.
-   > So mote it be.
-   
+   > Guide my soul along paths of peace.  
+   > So mote it be.  
+
    ### 🈶 日本語部分
    > （交差点の光、ヘカテよ、あなたに呼びかけます  
    > 私が夢の領域へと漂うとき  
@@ -40,7 +40,7 @@
    > 世界のカードが広がり、雄大で穏やかなものとなり  
    > 私をその終わりなき舞踏へと迎え入れてください  
    > 眠りの中、私を見守ってください、ヘカテよ  
-   > 平和の小径を、私の魂が進みますように
+   > 平和の小径を、私の魂が進みますように  
    > そうあれかし）
 
 4. **視覚化**  
