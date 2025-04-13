@@ -48,7 +48,7 @@
 
 ## 🖼️ タロット例（小サイズ）
 
-<img src="world-tarot-small.jpg" width="300">
+<img src="world_tarot_small.jpg" width="300">
 
 ---
 
